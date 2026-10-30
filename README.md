@@ -84,20 +84,12 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Project
 
 * **[Stock Market Dashboard](https://github.com/NachiketRana/Bar-chart)**
   * Containerized PERN-stack financial dashboard featuring an intelligent **Cache-Aside PostgreSQL layer** for historical pricing.
   * Integrates a Python-based **Elliott Wave technical scanner** and live stock market chart visualization.
   * Orchestrated with Docker & Docker Compose for seamless multi-service operation.
-
-* **[Currency Converter](https://github.com/NachiketRana/Currency-Converter)**
-  * Full-stack web application integrating live real-time foreign exchange rate APIs.
-  * Features client-side debouncing, fallback handling, and responsive modern styling.
-
-* **[PsycheDocs AI](https://github.com/dhyeyRathi/psychedocs-ai)**
-  * Collaborated on backend middleware architecture and authentication refactoring for this AI platform.
-  * Enhanced request validation pipelines and API endpoint security.
 
 ---
 
