@@ -86,62 +86,18 @@
 
 ### 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/NachiketRana/Bar-chart">📈 Stock Market Dashboard</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/PERN_Stack-316192?style=flat-square" alt="PERN" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-      </p>
-      <ul>
-        <li>Full-stack financial dashboard featuring an intelligent <strong>Cache-Aside PostgreSQL layer</strong> for rapid historical pricing queries.</li>
-        <li>Integrates a Python-based <strong>Elliott Wave technical scanner</strong> for advanced chart analysis.</li>
-        <li>Fully containerized using <strong>Docker & Docker Compose</strong> for seamless multi-service orchestration.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/NachiketRana/Currency-Converter">💱 Currency Converter</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
-        <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square" alt="API" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
-      </p>
-      <ul>
-        <li>Full-stack currency conversion platform powered by live exchange rate third-party APIs.</li>
-        <li>Features real-time input debounce, error-resilient fallback rates, and an intuitive responsive user interface.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3 align="center"><a href="https://github.com/dhyeyRathi/psychedocs-ai">🧠 PsycheDocs AI</a></h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-        <img src="https://img.shields.io/badge/Auth_%26_Security-critical?style=flat-square" alt="Auth" />
-      </p>
-      <ul>
-        <li>Collaborated on backend middleware architecture and authentication refactoring for this AI-driven platform.</li>
-        <li>Optimized request validation pipelines and enhanced API endpoint security.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+* **[Stock Market Dashboard](https://github.com/NachiketRana/Bar-chart)**
+  * Containerized PERN-stack financial dashboard featuring an intelligent **Cache-Aside PostgreSQL layer** for historical pricing.
+  * Integrates a Python-based **Elliott Wave technical scanner** and live stock market chart visualization.
+  * Orchestrated with Docker & Docker Compose for seamless multi-service operation.
 
----
+* **[Currency Converter](https://github.com/NachiketRana/Currency-Converter)**
+  * Full-stack web application integrating live real-time foreign exchange rate APIs.
+  * Features client-side debouncing, fallback handling, and responsive modern styling.
 
-### 📊 GitHub Activity & Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NachiketRana&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Nachiket's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NachiketRana&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NachiketRana&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+* **[PsycheDocs AI](https://github.com/dhyeyRathi/psychedocs-ai)**
+  * Collaborated on backend middleware architecture and authentication refactoring for this AI platform.
+  * Enhanced request validation pipelines and API endpoint security.
 
 ---
 
